@@ -14,7 +14,7 @@ export class ProductService {
     new Product(4,'Product Name','Product Description', 120),
     new Product(5,'Product Name','Product Description', 120),
     new Product(6,'Product Name','Product Description', 120),
-    new Product(6,'Product Name','Product Description', 120),
+    new Product(7,'Product Name','Product Description', 120),
 
   ]
 
